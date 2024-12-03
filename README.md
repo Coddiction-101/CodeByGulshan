@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CodeByGulshan
 - 👀 I’m interested in Development and Exploring The Tech
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Dev
 - 📫 How to reach me @aryankushwaha088@gmail.com 
 - ⚡ Fun fact: Spotify Fond
 

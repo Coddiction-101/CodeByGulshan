@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CodeWithGulshan
+- 👋 Hi, I’m @Coddiction
 - 👀 I’m interested in Development and Exploring The Tech
-- 🌱 I’m currently learning Web Dev and DSA
+- 🌱 Learning Front-end Development and Data Structure and Algorithms in C++
 - 📫 How to reach me @aryankushwaha088@gmail.com 
 <!---
 CodeByGulshan/CodeByGulshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

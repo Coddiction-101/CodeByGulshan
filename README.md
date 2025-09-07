@@ -14,7 +14,7 @@ My learning journey encompasses structured challenges, hands-on coding, and prac
 I thrive on continuous learning, collaboration, and applying my skills to real-world problems. I am eager to contribute to impactful projects and work alongside talented developers to grow both technically and professionally.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio | Projects](http://https://app.netlify.com/teams/suffersoul80/projects)
+* 🖥️  See my portfolio at [My Portfolio | Projects](https://app.netlify.com/teams/suffersoul80/projects)
 * ✉️  You can contact me at [gulshansays333@gmail.com](mailto:gulshansays333@gmail.com)
 * 🧠  I'm currently learning JavaScript
 * 👥  I'm looking to collaborate on Frontend Development and User Interface

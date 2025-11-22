@@ -13,7 +13,6 @@ I am a passionate software developer specializing in frontend development and ma
 * ✉️  You can contact me at [gulshansays333@gmail.com](mailto:gulshansays333@gmail.com)
 * 🧠  I'm currently learning JavaScript
 * 👥  I'm looking to collaborate on Frontend Development and User Interface
-* 💬  Ask me about Capturing Scenery through my Logical Lenses.
 
  
 <p align="left">

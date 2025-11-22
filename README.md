@@ -6,7 +6,7 @@ Frontend Developer | DSA Enthusiastic
 [![Gulshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coddiction-101)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I am a passionate software developer specializing in frontend development and mastering Data Structures & Algorithms (DSA). I focus on building efficient, user-friendly applications using modern frontend technologies while strengthening core programming skills through rigorous DSA practice. I thrive on continuous learning, collaboration, and applying my skills to solve real-world problems, sharing my progress through projects on GitHub.
+I am a passionate software developer specializing in frontend development and mastering Data Structures & Algorithms (DSA). I focus on building efficient and user-friendly applications using modern frontend technologies, while strengthening core programming skills through rigorous DSA practice. I thrive on continuous learning, collaboration, and applying my skills to solve real-world problems, sharing my progress through projects on GitHub.
 
 * 🌍  I'm based in India
 * 🖥️  See my Projects ([https://app.netlify.com/teams/suffersoul80/projects](https://gulshanportfolio90.netlify.app/#project))

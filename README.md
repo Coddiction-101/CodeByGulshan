@@ -11,7 +11,6 @@ I am a passionate software developer specializing in frontend development and ma
 * 🖥️  See my Projects ([https://app.netlify.com/teams/suffersoul80/projects](https://gulshanportfolio90.netlify.app/#project))
 * ✉️  You can contact me at [gulshansays333@gmail.com](mailto:gulshansays333@gmail.com)
 * 🧠  I'm currently learning JavaScript
-* 👥  I'm looking to collaborate on Frontend Development and User Interface
 
  
 <p align="left">

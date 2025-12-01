@@ -5,7 +5,7 @@ Frontend Developer | DSA Enthusiastic
 
 
 
-I am a passionate software developer specializing in frontend development and mastering Data Structures & Algorithms (DSA). I focus on building efficient and user-friendly applications using modern frontend technologies, while strengthening core programming skills through rigorous DSA practice. I thrive on continuous learning, collaboration, and applying my skills to solve real-world problems, sharing my progress through projects on GitHub.
+I am a passionate software developer specializing in frontend development and mastering Data Structures & Algorithms (DSA). I focus on building efficient, user-friendly applications with modern frontend technologies while strengthening core programming skills through rigorous DSA practice. I thrive on continuous learning, collaboration, and applying my skills to solve real-world problems, and I share my progress through projects on GitHub.
 
 * 🌍  Madhyapradesh, India
 * 🖥️  See my Projects ([https://app.netlify.com/teams/suffersoul80/projects](https://gulshanportfolio90.netlify.app/#project))
